@@ -32,7 +32,7 @@ Currently the only ones being implemented are: `pointer`, `text` and `default`.
 
 ## Lists of sites that implement it
 
-I hope this lists get's longer over time :)
+I hope this list get's longer over time :)
 
 - 
 
