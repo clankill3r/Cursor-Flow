@@ -1,0 +1,138 @@
+/* Part of Cursor-Flow, see Cursor-Flow.js for license information. */
+
+body {
+    cursor: none;
+}
+
+textarea {
+    cursor: none;
+}
+
+button {
+    cursor: none;
+}
+
+a {
+    cursor: none;
+}
+
+.CF-cursor {
+    width: 32px;
+    height: 32px;
+    position: fixed;
+    pointer-events: none;
+    z-index: 2147483647;
+    /* background-image: url('images/default_32x32.png'); */
+}
+
+.CF-cursor.zoom-in {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.auto {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.default {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.none {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.context-menu {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.help {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.pointer {
+    background-image: url('images/pointer_32x32.png');
+}
+.CF-cursor.progress {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.wait {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.cell {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.crosshair {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.text {
+    background-image: url('images/beam_32x32.png');
+}
+.CF-cursor.vertical-text {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.alias {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.copy {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.move {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.no-drop {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.not-allowed {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.grab {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.grabbing {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.e-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.n-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.ne-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.nw-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.s-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.se-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.sw-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.w-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.ew-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.ns-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.nesw-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.nwse-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.col-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.row-resize {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.all-scroll {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.zoom-in {
+    background-image: url('images/default_32x32.png');
+}
+.CF-cursor.zoom-out{
+    background-image: url('images/default_32x32.png');
+}
